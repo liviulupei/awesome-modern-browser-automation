@@ -102,6 +102,7 @@ Tools and platforms used for browser-based scraping and data extraction.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - Python library for automating interaction with websites.
 - [Playwright](https://playwright.dev) - Browser automation framework often used for modern JavaScript-heavy scraping workflows.
 - [Puppeteer](https://pptr.dev) - Node.js library often used for browser-based scraping and automation.
+- [invisible_playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper over a patched Firefox with a realistic, consistent fingerprint for scraping pages that filter automated browsers.
 
 ---
 
