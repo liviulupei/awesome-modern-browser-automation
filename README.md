@@ -45,6 +45,7 @@ Open-source frameworks and libraries for controlling browsers.
 Tools that use AI agents, natural language, or AI-assisted workflows to create, run, maintain, or automate browser-based tests and workflows.
 
 - [Endtest](https://endtest.io) - Agentic AI platform for no-code end-to-end test automation.
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - [Mabl](https://www.mabl.com) - AI-assisted test automation platform for web application testing.
 - [Functionize](https://www.functionize.com) - AI-powered test automation platform focused on test creation, execution, and maintenance.
 - [Testim](https://www.testim.io) - AI-assisted test automation platform for web applications.
