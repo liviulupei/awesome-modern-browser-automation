@@ -111,6 +111,7 @@ Cloud-hosted browsers, browser grids, and testing platforms for running browser 
 
 - [Browserbase](https://www.browserbase.com) - Cloud browser platform for browser automation and AI agents.
 - [Browserless](https://www.browserless.io) - Hosted browser automation service for Puppeteer and Playwright.
+- [Cloudbrowser](https://cloudbrowser.tv) - Persistent, isolated cloud Chrome sessions for AI agents, accessible through CDP and Live View, with pause, resume, and forkable profiles.
 - [BrowserStack](https://www.browserstack.com) - Cross-browser and real device testing platform.
 - [Sauce Labs](https://saucelabs.com) - Cloud testing platform for web and mobile applications.
 - [LambdaTest](https://www.lambdatest.com) - Cross-browser testing cloud.
